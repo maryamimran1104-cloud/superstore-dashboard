@@ -7,6 +7,7 @@ Created on Thu Dec 18 19:40:51 2025
 
 import streamlit as st
 import plotly.express as px
+import plotly.express as px
 import pandas as pd
 
 st.set_page_config(page_title="Superstore Dashboard", layout="wide")
